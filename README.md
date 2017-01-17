@@ -1,2 +1,5 @@
 # hello-world
-My First Repository o GitHub
+My First Repository on GitHub
+
+
+This is  file that edits the initial master branch. :D
